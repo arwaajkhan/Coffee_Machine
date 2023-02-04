@@ -1,1 +1,2 @@
-# Coffee_Machine_using_python
+# Coffee_Machine
+This code allows user to have coffee machine experience via python code.
